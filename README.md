@@ -1,6 +1,6 @@
-# PrefereceFragment
-## In-line preferences
-### CheckBoxPreference
+#PrefereceFragment
+##In-line preferences
+###CheckBoxPreference
 ![CheckBoxPreference](http://i1.piimg.com/567571/327f971d0176993c.png)
 ##Dialog-based preferences
 ###EditTextPreference
